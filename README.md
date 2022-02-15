@@ -2,6 +2,31 @@
 
 I am a Full Stack Web Developer. Along with with a specialization in MERN Stack, I also have extensive experience in using HTML, CSS, JavaScript, Express, MongoDB, React and NodeJS.
 
+## Home Page:
+
+<img src="https://user-images.githubusercontent.com/91547105/154113505-b0508598-1e18-431f-bbed-b50509b2d1e6.png" />
+
+
+## About Page:
+
+<img src="https://user-images.githubusercontent.com/91547105/154113666-2eb4528c-479a-456d-897e-4d0c311ead9d.png" />
+
+
+## Projects Page:
+
+<img src="https://user-images.githubusercontent.com/91547105/154113737-69764637-45b6-404e-9d33-dfcb3cab6f5f.png" />
+
+
+## Skills Page:
+
+<img src="https://user-images.githubusercontent.com/91547105/154113956-ce849e97-1d37-483e-9c10-ff316a0b4c8e.png" />
+
+
+## Contact Page:
+
+<img src="https://user-images.githubusercontent.com/91547105/154114033-03f2f984-d05a-44c6-a5e0-b77a47b3b0de.png" />
+
+
 <h1 align="center">🛠 Tech Stack</h1>
 
 <br>
@@ -18,3 +43,4 @@ I am a Full Stack Web Developer. Along with with a specialization in MERN Stack,
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
