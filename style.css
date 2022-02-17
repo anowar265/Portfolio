@@ -357,6 +357,7 @@ section .title::after {
 }
 .services .serv-content .card .tech_stack_box div .desc .mb-5 {
   font-size: 10px;
+  margin-top: 8px;
 }
 
 /* skills section styling */
@@ -428,7 +429,7 @@ section .title::after {
   color: white;
 }
 .teams .carousel .card:hover .info .desc h2 {
-  background-color: black;
+  background-color: white;
 }
 .teams .carousel .card .info .icon {
   color: crimson;
