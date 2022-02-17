@@ -293,7 +293,10 @@ section .title::after {
   height: 500px;
 }
 .services .serv-content .card:hover {
-  background-color: white;
+  background-color: #fafafa;
+}
+.services .serv-content .card:hover .tech_stack_box div .info .icon .fab {
+  color: crimson;
 }
 .services .serv-content .card .box {
   transition: all 0.3s ease;
@@ -321,9 +324,9 @@ section .title::after {
   margin-top: 7%;
 }
 .services .serv-content .card .button_box button {
-  padding: 15px;
+  padding: 15px 20px;
   margin: 2% 10%;
-  background-color: teal;
+  background-color: crimson;
   color: white;
   border: none;
   font-size: 15px;
@@ -332,6 +335,13 @@ section .title::after {
 .services .serv-content .card .button_box button a {
   color: white;
 }
+.services .serv-content .card .button_box button:hover {
+  border: 2px solid crimson;
+  background-color: whitesmoke;
+}
+.services .serv-content .card .button_box button:hover a {
+  color: crimson;
+}
 .services .serv-content .card .tech_stack_box {
   display: flex;
   width: 100%;
@@ -339,9 +349,14 @@ section .title::after {
 }
 .services .serv-content .card .tech_stack_box div {
   flex-basis: auto;
+  align-items: center;
+  margin: auto;
 }
-.services .serv-content .card .tech_stack_box div img {
-  width: 99%;
+.services .serv-content .card .tech_stack_box div .info .icon .fab {
+  font-size: 40px;
+}
+.services .serv-content .card .tech_stack_box div .desc .mb-5 {
+  font-size: 10px;
 }
 
 /* skills section styling */
@@ -406,7 +421,7 @@ section .title::after {
   height: 220px;
 }
 .teams .carousel .card:hover {
-  background-color: #ffbd39;
+  background-color: crimson;
   color: black;
 }
 .teams .carousel .card:hover .info .icon {
@@ -416,7 +431,7 @@ section .title::after {
   background-color: black;
 }
 .teams .carousel .card .info .icon {
-  color: #ffbd39;
+  color: crimson;
   font-size: 60px;
 }
 
@@ -432,7 +447,7 @@ section .title::after {
   right: 0;
   width: 35px;
   height: 2px;
-  background: #ffbd39;
+  background: crimson;
   margin: 5% auto;
 }
 
